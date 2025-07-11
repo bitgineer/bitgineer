@@ -1,10 +1,10 @@
-# 🚀 GitHub Portfolio - DevOps Automation Engineer
+#  GitHub Portfolio - AI-Powered Solutions Architect & Automation Specialist
 
-> **Showcasing enterprise-grade automation solutions, blockchain infrastructure, and network optimization projects that drive real business impact.**
+> **Showcasing enterprise-grade automation solutions, blockchain infrastructure, and network optimization projects designed and delivered with cutting-edge AI development tools.**
 
 ## 👋 Welcome to My Technical Portfolio
 
-I'm a **DevOps Automation Engineer** with 5+ years of experience transforming manual operations into scalable, automated solutions. This portfolio demonstrates my expertise in building enterprise-grade systems that optimize workflows, reduce costs, and drive revenue growth.
+I'm a **Solutions Architect & Automation Specialist** with 5+ years of experience transforming manual operations into scalable, automated solutions. I leverage AI as a primary development tool to rapidly design, build, and deploy enterprise-grade systems that optimize workflows, reduce costs, and drive revenue growth. This portfolio is a demonstration of that unique, AI-driven development process.
 
 ## 🎯 Portfolio Highlights
 
@@ -195,11 +195,11 @@ I leverage cutting-edge AI development tools to rapidly prototype and deploy pro
 ## 🎯 Career Focus Areas
 
 ### **Target Roles**
-- **Senior DevOps Engineer** - Infrastructure automation and optimization
-- **Automation Specialist** - Process automation and workflow optimization  
-- **Backend Developer** - API development and system integration
-- **Infrastructure Engineer** - Network and system architecture
-- **Technical Solutions Engineer** - Custom automation solutions
+- **AI Solutions Architect** - Designing and directing AI-driven projects
+- **Technical Product Manager** - Bridging business needs and AI-powered development
+- **Automation Consultant** - Strategizing and implementing process automation
+- **Solutions Engineer** - Demonstrating and customizing technical solutions
+- **Innovation Manager** - Leading the adoption of cutting-edge development tools
 
 ### **Industry Alignment**
 - **🏦 FinTech** - Cryptocurrency, payments, financial automation
@@ -236,7 +236,9 @@ I believe in sharing knowledge and contributing to the developer community throu
 - **🔧 Tool Sharing** - Useful utilities and automation scripts
 
 ### **Professional Network**
-- **💼 LinkedIn**: [linkedin.com/in/theredia24](https://linkedin.com/in/theredia24)
+- **💼 LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/theredia24)
+- **📧 Email**: tommy.heredia24@gmail.com
+- **📍 Location**: Portland, OR (Open to remote work)
 
 ---
 
@@ -272,3 +274,7 @@ I'm passionate about building automation solutions that drive real business impa
 I bring the technical expertise and business acumen to deliver results that matter.
 
 **Let's connect and discuss how automation can transform your operations!**
+
+---
+
+*This portfolio showcases real projects that have driven significant business impact through innovative automation solutions. All code examples and architectures are based on production systems with proven ROI.*
